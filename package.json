@@ -1,0 +1,36 @@
+{
+  "name": "desarrollo-agil-angular",
+  "version": "1.0.0",
+  "description": "Desarrollo del libro de Carlos Azaustre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairAviles/desarrollo-agil-angular.git"
+  },
+  "author": "Jair Israel Avilés Eusebio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JairAviles/desarrollo-agil-angular/issues"
+  },
+  "homepage": "https://github.com/JairAviles/desarrollo-agil-angular#readme",
+  "devDependencies": {
+    "connect-history-api-fallback": "^1.1.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-if": "^2.0.0",
+    "gulp-inject": "^4.0.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-stylus": "^2.3.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-useref": "^3.0.5",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0",
+    "nib": "^1.1.0",
+    "wiredep": "^4.0.0"
+  },
+  "dependencies": {}
+}

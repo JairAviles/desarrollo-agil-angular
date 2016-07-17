@@ -1,0 +1,28 @@
+{
+  "name": "desarrollo-agil-angular",
+  "description": "Desarrollo del libro de Carlos Azaustre",
+  "main": "index.js",
+  "authors": [
+    "Jair Israel Avilés Eusebio"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs"
+  ],
+  "homepage": "https://github.com/JairAviles/desarrollo-agil-angular",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.2",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.2",
+    "angular-resource": "^1.5.2",
+    "font-awesome": "fontawesome#^4.6.1"
+  }
+}
